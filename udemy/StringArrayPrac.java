@@ -1,3 +1,6 @@
+//Practicing with strings stored in arrays
+//Jonathan Cameron
+
 package udemy;
 
 public class StringArrayPrac {

@@ -1,3 +1,6 @@
+//Do...While practice
+//Jonathan Cameron
+
 package udemy;
 
 public class DoWhileLoop {

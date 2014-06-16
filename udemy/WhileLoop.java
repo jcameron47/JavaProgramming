@@ -1,4 +1,5 @@
 // while loop practice
+//Jonathan Cameron
 
 package udemy;
 

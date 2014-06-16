@@ -1,4 +1,6 @@
-//This allows me to practice
+//This allows me to practice with multiple items for the
+//heck of it.
+//Jonathan Cameron
 
 package udemy;
 

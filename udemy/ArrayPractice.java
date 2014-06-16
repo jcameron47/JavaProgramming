@@ -1,3 +1,6 @@
+//Practicing with Arrays
+//Jonathan Cameron
+
 package udemy;
 
 public class ArrayPractice {
