@@ -1,3 +1,8 @@
+//Practice with Class and Methods
+//also creating getters
+//
+//Jonathan Cameron
+
 package udemy;
 
 //a class I created :)
@@ -34,6 +39,25 @@ class Person
 		System.out.println(height[0] + " " + height[1]);
 	}
 	
+	String getName()
+	{
+		return name;
+	}
+	
+	String getGender()
+	{
+		return gender;
+	}
+	
+	short getAge()
+	{
+		return age;
+	}
+	
+	short[] getHeight()
+	{
+		return height;
+	}
 	
 }
 
@@ -52,6 +76,8 @@ public class ClassAndMethods
 		jon.height[1] = 0;
 		
 		jon.display();
+		
+		int x = jon.age;
 	}
 
 }
